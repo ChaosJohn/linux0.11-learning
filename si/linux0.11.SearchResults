@@ -1,0 +1,5 @@
+---- disk Æ¥Åä (5 in 0 ÎÄ¼þ) ----
+Makefile (d:\selfexercise\linux\src\linux-0.11-060618-gcc4\linux):2:# if you want the ram-disk device, define this to be the
+Makefile (d:\selfexercise\linux\src\linux-0.11-060618-gcc4\linux):5:RAMDISK =  #-DRAMDISK=512
+Makefile (d:\selfexercise\linux\src\linux-0.11-060618-gcc4\linux):13:CC	=gcc -mcpu=i386 $(RAMDISK)
+Makefile (d:\selfexercise\linux\src\linux-0.11-060618-gcc4\linux):47:disk: Image
